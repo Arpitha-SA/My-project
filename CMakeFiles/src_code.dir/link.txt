@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/src_code.dir/src/src_code.cpp.o -o bin/src_code  -Wl,-rpath,/home/coventry/Myproject/lib lib/libdata.so 

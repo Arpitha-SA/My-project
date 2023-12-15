@@ -1,0 +1,4 @@
+/home/coventry/Myproject/CMakeFiles/data.dir
+/home/coventry/Myproject/CMakeFiles/src_code.dir
+/home/coventry/Myproject/CMakeFiles/edit_cache.dir
+/home/coventry/Myproject/CMakeFiles/rebuild_cache.dir
